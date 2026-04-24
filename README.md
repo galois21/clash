@@ -1,5 +1,12 @@
 Clash Meta 已改名 Mihomo，是一个基于开源项目 Clash 的二次开发版本，并增加了一些独有特性，Meta 核心支持所有原开源核心的全部特性，支持原 Clash Premium 核心部分特性。
-<!--more-->
+
+## 使用
+Windows、mac、Linux桌面版安装Clash Verge，安卓安装Clash Meta for Android，苹果继续小火箭
+1. 导入订阅
+2. 托盘右键设置为如图
+<img width="380" height="644" alt="2b1ab38f6000d49e3e0bc0ca28501b6d" src="https://github.com/user-attachments/assets/7d404189-baac-4756-8e79-c7bf038da16a" />
+3. 开启tun模式（可选）
+   首页tab下，页面滚动到最下方，切换到服务模式，安装，可以启动tun模式
 
 ## Clash Meta 客户端列表
 
